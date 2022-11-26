@@ -1,8 +1,8 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Ragul A C
+Name :	A Naveen Kumar
 
-Roll no : 212221240042
+Roll no : 212221240032
 
 Date of experiment : 25-11-2022
 
